@@ -1,6 +1,6 @@
 # requirement-analysis
-<h3>Requirement Analysis in Software Development.</h3>
-#What is Requirement Analysis?
+<h2>Requirement Analysis in Software Development.</h2>
+<h3>What is Requirement Analysis?</h3>
 Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed. This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
 <h3>Why is Requirement Analysis Important?</h3>
 Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
@@ -74,62 +74,32 @@ Create models to visualize and understand the requirements.
 5. Requirement Validation
 Review and validate the requirements with stakeholders.
 Define acceptance criteria and ensure traceability.
-Use Case Diagrams 📊
+<h3>Use Case Diagrams 📊</h3>
 Objective: Visual representation of interactions between users and the system.
-
 What are Use Case Diagrams?
-
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
 Creating Use Case Diagrams:
-
 Identify actors (e.g., guest, registered user, admin).
 Define use cases (e.g., search properties, book property, manage listings).
 Draw interactions between actors and use cases.
 Benefits of Use Case Diagrams:
-
 Provide a clear visual representation of system functionalities.
 Help in identifying and organizing system requirements.
 Facilitate communication among stakeholders and development team.
-Acceptance Criteria ✅
+<img src="alx-booking-uc.png">
+<h3>Acceptance Criteria ✅</h3>
 Objective: Establishing clear criteria for feature completion.
 
 What is Acceptance Criteria?
-
 Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
-How to Define Acceptance Criteria:
 
+How to Define Acceptance Criteria:
 Be specific and measurable.
 Include functional and non-functional aspects.
 Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
-Benefits of Acceptance Criteria:
 
+Benefits of Acceptance Criteria:
 Ensure all parties have a clear understanding of feature requirements.
 Provide a basis for testing and validation.
 Help in maintaining quality and meeting user expectations.
-Putting It All Together 📌
-Steps to Conduct Requirement Analysis:
 
-Gather Requirements:
-
-Conduct interviews and surveys with stakeholders.
-Review existing documentation and systems.
-Write User Stories:
-
-Collaborate with stakeholders to define user stories.
-Prioritize user stories based on project goals.
-Define Functional Requirements:
-
-List all functionalities required for the system.
-Ensure each functionality aligns with user stories.
-Identify Non-functional Requirements:
-
-Determine system attributes critical for success.
-Document performance, security, scalability, usability, and reliability requirements.
-Create Use Case Diagrams:
-
-Visualize interactions between users and the system.
-Validate with stakeholders to ensure accuracy.
-Set Acceptance Criteria:
-
-Define clear criteria for feature completion.
-Ensure criteria are specific, measurable, and agreed upon by stakeholders
